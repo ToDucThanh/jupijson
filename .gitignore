@@ -1,0 +1,6 @@
+# Ignore target directory and temporary files
+target/
+/*.rs.bk
+
+# Ignore Cargo.lock for libraries
+Cargo.lock

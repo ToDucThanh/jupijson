@@ -1,0 +1,10 @@
+[package]
+name = "jupijson"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A simple JSON parsing library"
+repository= "https://github.com/ToDucThanh/jupijson.git"
+
+[dependencies]
+thiserror = "2.0.3"
